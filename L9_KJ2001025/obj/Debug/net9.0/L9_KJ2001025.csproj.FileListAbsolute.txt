@@ -1,0 +1,14 @@
+C:\Users\kevin\L9_KJ2001025\bin\Debug\net9.0\L9_KJ2001025.exe
+C:\Users\kevin\L9_KJ2001025\bin\Debug\net9.0\L9_KJ2001025.deps.json
+C:\Users\kevin\L9_KJ2001025\bin\Debug\net9.0\L9_KJ2001025.runtimeconfig.json
+C:\Users\kevin\L9_KJ2001025\bin\Debug\net9.0\L9_KJ2001025.dll
+C:\Users\kevin\L9_KJ2001025\bin\Debug\net9.0\L9_KJ2001025.pdb
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.AssemblyInfoInputs.cache
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.AssemblyInfo.cs
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.csproj.CoreCompileInputs.cache
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.dll
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\refint\L9_KJ2001025.dll
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.pdb
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\L9_KJ2001025.genruntimeconfig.cache
+C:\Users\kevin\L9_KJ2001025\obj\Debug\net9.0\ref\L9_KJ2001025.dll
